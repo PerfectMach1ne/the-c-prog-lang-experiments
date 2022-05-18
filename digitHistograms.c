@@ -6,7 +6,7 @@
 // a vertical orientation is more challenging."
 //
 // Corresponding C scrap file path on my local crappy code stash:
-// C:\CrapStack seriesC_I\272\272.c
+// D:\Programming\C\CrapStack series C_I\272
 
 #include <stdio.h>
 
