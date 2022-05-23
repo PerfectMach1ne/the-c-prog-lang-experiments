@@ -4,6 +4,8 @@
 // "Write a program to print a histogram of the lengths of words in its input.
 // It is easy to draw the histogram with the bars horizontal;
 // a vertical orientation is more challenging."
+// NOTE: It seems my solution is for a slightly altered version of the exercise
+// about histograms counting digits in the input rather than lengths of words.
 //
 // Corresponding C scrap file path on my local crappy code stash:
 // D:\Programming\C\CrapStack series C_I\272
